@@ -1,0 +1,2 @@
+class FakeUser < ApplicationRecord
+end
